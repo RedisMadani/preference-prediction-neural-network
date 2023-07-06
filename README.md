@@ -30,3 +30,7 @@ To utilize this project effectively, follow these steps:
 ## Screenshots
 
 ![customer_neural](https://github.com/RedisMadani/preference-prediction-neural-network/assets/136177376/8d4a24ad-69f9-4b1e-96e1-8566252ee38f)
+
+## Data Source
+
+The raw data files (data.txt and test.txt) used for training and testing the predictive neural network model was obtained from sources publicly available on GitHub. 
